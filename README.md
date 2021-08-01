@@ -17,7 +17,7 @@
 
 1. [Xarmin Learning Resources](https://github.com/mikeroyal/Xaramin-Guide#Xaramin-Learning-Resources)
 
-2. [Xarmin Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Xaramin-Guide#Xaramin-Tools-Libraries-and-Frameworks)
+2. [Xaramin Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Xaramin-Guide#Xaramin-Tools-Libraries-and-Frameworks)
 
 3. [.NET Development](https://github.com/mikeroyal/Xaramin-Guide#net-development)
 
