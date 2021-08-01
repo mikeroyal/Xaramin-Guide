@@ -59,7 +59,7 @@
 
 [Online Xamarin Classes | Skillshare](https://www.skillshare.com/browse/xamarin)
 
-# Xarmin Tools, Libraries, and Frameworks
+# Xaramin Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Xaramin-Guide#table-of-contents)
 
 [Xamarin.Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms) is an open source cross-platform framework from Microsoft for building iOS, Android, & Windows apps with .NET from a single shared codebase.
